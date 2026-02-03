@@ -277,5 +277,4 @@ Model performance depends on dataset quality and vocabulary distribution.
 ---
 
 ## Author
-Kottapalli Trishanth
-Developed as an academic Machine Learning project focused on applied NLP and desktop integration.
+Kottapalli Trishanth Btech 2nd year
