@@ -1,0 +1,32 @@
+Model 2 Accuracy: 0.7142857142857143
+
+                        precision    recall  f1-score   support
+
+            ACCOUNTANT       0.74      0.83      0.78        24
+              ADVOCATE       0.58      0.62      0.60        24
+           AGRICULTURE       0.78      0.54      0.64        13
+               APPAREL       0.50      0.32      0.39        19
+                  ARTS       0.69      0.52      0.59        21
+            AUTOMOBILE       0.67      0.29      0.40         7
+              AVIATION       0.86      0.79      0.83        24
+               BANKING       0.74      0.74      0.74        23
+                   BPO       0.00      0.00      0.00         4
+  BUSINESS-DEVELOPMENT       0.67      0.83      0.74        24
+                  CHEF       0.86      0.75      0.80        24
+          CONSTRUCTION       0.76      0.86      0.81        22
+            CONSULTANT       0.83      0.43      0.57        23
+              DESIGNER       0.90      0.90      0.90        21
+         DIGITAL-MEDIA       0.80      0.63      0.71        19
+           ENGINEERING       0.72      0.75      0.73        24
+               FINANCE       0.82      0.75      0.78        24
+               FITNESS       0.81      0.74      0.77        23
+            HEALTHCARE       0.60      0.65      0.62        23
+                    HR       0.75      0.95      0.84        22
+INFORMATION-TECHNOLOGY       0.80      1.00      0.89        24
+      PUBLIC-RELATIONS       0.55      0.77      0.64        22
+                 SALES       0.50      0.48      0.49        23
+               TEACHER       0.66      0.95      0.78        20
+
+              accuracy                           0.71       497
+             macro avg       0.69      0.67      0.67       497
+          weighted avg       0.72      0.71      0.71       497
