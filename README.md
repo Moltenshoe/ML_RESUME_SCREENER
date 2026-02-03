@@ -234,6 +234,8 @@ The GUI provides:
 ### Prediction Example
 
 ![Prediction](screenshots/prediction.png)
+
+> Note: Screenshots were captured with window transparency enabled in the desktop environment. Minor background color variations are due to compositor effects.
 ---
 
 ## Dataset
